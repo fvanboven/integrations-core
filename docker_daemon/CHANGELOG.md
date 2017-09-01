@@ -1,11 +1,11 @@
 # CHANGELOG - docker_daemon
 
-
 1.4.0 / Unreleased
 ==================
 ### Changes
 
 * [FEATURE] Add an option to wait for docker if it's not ready at start time. See [#722][]
+* [IMPROVEMENT] Honor docker_histo_striptags option in datadog.conf for histograms [#725][]
 
 1.3.2 / 2017-08-28
 ==================

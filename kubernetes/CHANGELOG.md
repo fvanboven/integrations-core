@@ -6,6 +6,7 @@
 
 * [FEATURE] Add an option to retry kubelet connection if it's not up at start time. See [#722][]
 * [BUGFIX] fix container_image names reported as sha checksums [#731][]
+* [IMPROVEMENT] Honor docker_histo_striptags option in datadog.conf for histograms [#725][]
 
 1.3.0 / 2017-08-28
 ==================
